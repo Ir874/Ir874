@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ir874
-- 👀 I’m interested in physics, computer engineering and programming
+- 👀 I’m interested in physics, computer engineering, software development and programming
 - 🌱 I’m currently learning python and IoT
 
 <!---
